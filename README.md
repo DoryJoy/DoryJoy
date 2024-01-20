@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DoryJoy
-- 👀 I’m interested in diversity and equity in AI
+- 👀 I’m interested in diversity, equity and inclusion in AI
 - 🌱 I’m currently learning everything I can
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 I can be reached by email at dory@hawaii.edu 
